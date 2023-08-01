@@ -20,3 +20,5 @@ thislist[1] = "watermelon"
 pass
 
 # thislist[1:3] = ["cherry", "watermelon"] => 둘의 순서를 바꿈
+# thislist.sort() => 아이템 정렬, quick sort
+# thislist.sort(reverse=True) => descending 정렬
