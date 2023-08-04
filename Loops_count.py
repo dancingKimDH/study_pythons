@@ -4,7 +4,7 @@ while (1 < 2) :
     Loops_count = input("Loops count : ")
     if (Loops_count == "Q") :
         break
-    elif (Loops_count != "Q") :
+    else :
         Loop_fruit = fruits[:int(Loops_count)]
         fruit_print_format = "{0}. {1}"
         for (index, fruit) in enumerate(Loop_fruit, start=1) :
