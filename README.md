@@ -8,6 +8,8 @@
 | Datatype | String | [py](./datatype_strings.py) | --- |
 | Datatype | List | [py](./datatype_list.py) | --- |
 | Datatype | Dictionary | [py](./dictionary.py) | --- |
+| Datatype | Date | [py](./datatype_datetimes.py) | --- |
 | Loop | Loop | [py](./loops.py) | --- |
 | If | If | [py](./ifelses.py) | --- |
 | Input | Input | [py](./user_inputs.py) | --- |
+
